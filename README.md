@@ -78,11 +78,8 @@ git clone https://github.com/AloeVeraZ/FTC9384-2023-Robot-Crabby.git
 
 All original listing metadata and source URLs are recorded in [`grabcad-metadata.yml`](grabcad-metadata.yml). GitHub permits only 20 repository topics, so all 26 GrabCAD tags are preserved in the repository even though they cannot all be displayed as GitHub topics.
 
-## Sources and rights
+## Sources
 
 The engineering history and website media come from [Angelo Demetroulakos' Crabby project page](https://angelojamesny.com/crabby-2022-23). The CAD package was published by [Angelo Demetroulakos on GrabCAD](https://grabcad.com/library/ftc-9384-2022-2023-robot-1) on March 25, 2024.
 
 The portfolio confirms that Crabby is the **2022-2023 POWERPLAY robot**. A reference to 2023-2024 in the GrabCAD description appears to be a season-label typo.
-
-No separate license was specified on the source pages. Unless the owner adds one, the files remain subject to the rights of their original author and the applicable hosting-site terms.
-
