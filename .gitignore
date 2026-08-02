@@ -1,0 +1,12 @@
+# CAD application backup and recovery files
+*.bak
+*.backup
+*.autosave
+*.f3d.bak
+~$*
+
+# Operating-system metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+
