@@ -11,6 +11,12 @@ The turret placed its drive motor's output shaft at the center of rotation. This
 - [View the original project page](https://angelojamesny.com/crabby-2022-23)
 - [View the original GrabCAD listing](https://grabcad.com/library/ftc-9384-2022-2023-robot-1)
 
+## About
+
+This repository is the complete project archive for Crabby, designed and documented by **Angelo Demetroulakos** as a member of FTC Team 9384, the Hydraulic Hydras. It brings the robot's final CAD, subsystem models, competition media, and three-stage design history together in one place so other students, teams, makers, and educators can study the design and build on it.
+
+Crabby's defining feature is its directly driven turret. Placing the motor shaft on the turret's axis let the scoring assembly aim independently from the mecanum chassis, while the dual-slide lift and claw handled cones across the POWERPLAY field.
+
 ## The challenge
 
 [POWERPLAY](https://www.youtube.com/watch?v=HsitvZ0JaDc) required robots to collect cones and score them on junction poles of several heights or in marked field areas. Crabby therefore needed:
@@ -83,3 +89,18 @@ All original listing metadata and source URLs are recorded in [`grabcad-metadata
 The engineering history and website media come from [Angelo Demetroulakos' Crabby project page](https://angelojamesny.com/crabby-2022-23). The CAD package was published by [Angelo Demetroulakos on GrabCAD](https://grabcad.com/library/ftc-9384-2022-2023-robot-1) on March 25, 2024.
 
 The portfolio confirms that Crabby is the **2022-2023 POWERPLAY robot**. A reference to 2023-2024 in the GrabCAD description appears to be a season-label typo.
+
+## License
+
+Copyright © 2022-2026 Angelo Demetroulakos.
+
+Crabby's original CAD, documentation, images, and video are licensed by **Angelo Demetroulakos** under the [Creative Commons Attribution 4.0 International License](LICENSE) (**CC BY 4.0**).
+
+You may copy, share, modify, build upon, and use this material for any purpose, including commercially. If you share the original material or your version, you must:
+
+- Credit Angelo Demetroulakos as the creator.
+- Link to this repository or otherwise identify the source when reasonably possible.
+- Link to the CC BY 4.0 license.
+- State whether you made changes.
+
+A ready-to-copy credit line is provided in [`ATTRIBUTION.md`](ATTRIBUTION.md). See the official [`LICENSE`](LICENSE) text for the complete terms.

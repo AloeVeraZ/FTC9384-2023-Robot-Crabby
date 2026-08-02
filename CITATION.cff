@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use or adapt Crabby, please credit it using this citation."
+title: "Crabby: FTC Team 9384 2022-2023 POWERPLAY Robot"
+type: dataset
+authors:
+  - family-names: "Demetroulakos"
+    given-names: "Angelo"
+license: CC-BY-4.0
+repository-code: "https://github.com/AloeVeraZ/FTC9384-2023-Robot-Crabby"
+url: "https://angelojamesny.com/crabby-2022-23"
+date-released: "2024-03-25"
+version: "1.0"
+
