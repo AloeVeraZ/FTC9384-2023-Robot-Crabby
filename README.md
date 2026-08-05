@@ -2,7 +2,7 @@
 
 ![CAD render of Crabby, FTC Team 9384's POWERPLAY robot](media/site/final-bot-v9.png)
 
-**Crabby** was FTC Team 9384 Hydraulic Hydras' robot for the 2022-2023 **POWERPLAY** season. Development began at kickoff on September 10, 2022. Across three major competition iterations, the team developed a mecanum drive base, dual linear-slide lift, cone claw, and compact direct-drive turret.
+**Crabby** was FTC Team 9384 Hydraulic Hydras' robot for the 2022-2023 **POWERPLAY** season. Development began at kickoff on September 10, 2022. Across three major competition iterations, the team developed a mecanum drive base, dual linear slide lift, cone claw, and compact direct drive turret.
 
 The turret placed its drive motor's output shaft at the center of rotation. This let the lift and claw aim at junctions without first turning the entire chassis, improving scoring flexibility while keeping the mechanism relatively simple and compact.
 
@@ -13,9 +13,9 @@ The turret placed its drive motor's output shaft at the center of rotation. This
 
 ## About
 
-This repository is the complete project archive for Crabby, designed and documented by **Angelo Demetroulakos** as a member of FTC Team 9384, the Hydraulic Hydras. It brings the robot's final CAD, subsystem models, competition media, and three-stage design history together in one place so other students, teams, makers, and educators can study the design and build on it.
+This repository is the complete project archive for Crabby, designed and documented by **Angelo Demetroulakos** as a member of FTC Team 9384, the Hydraulic Hydras. It brings the robot's final CAD, subsystem models, competition media, and three stage design history together in one place so other students, teams, makers, and educators can study the design and build on it.
 
-Crabby's defining feature is its directly driven turret. Placing the motor shaft on the turret's axis let the scoring assembly aim independently from the mecanum chassis, while the dual-slide lift and claw handled cones across the POWERPLAY field.
+Crabby's defining feature is its directly driven turret. Placing the motor shaft on the turret's axis let the scoring assembly aim independently from the mecanum chassis, while the dual slide lift and claw handled cones across the POWERPLAY field.
 
 ## The challenge
 
@@ -31,9 +31,9 @@ Crabby's defining feature is its directly driven turret. Placing the motor shaft
 
 | Stage | Competition period | Main design changes |
 | --- | --- | --- |
-| 1 | Kickoff to Qualifier 4 | H-frame mecanum chassis, one REV linear slide, and a two-servo compliant-wheel intake. |
+| 1 | Kickoff to Qualifier 4 | H-frame mecanum chassis, one REV linear slide, and a two servo compliant wheel intake. |
 | 2 | Qualifier 4 to Super Qualifier | Faster slide gearing, a more reliable claw, and the directly driven turret. |
-| 3 | Super Qualifier to State Championship | A second slide, larger turret bearing, bevel-gear drivetrain, lower chassis, and more frame bracing. |
+| 3 | Super Qualifier to State Championship | A second slide, larger turret bearing, bevel gear drivetrain, lower chassis, and more frame bracing. |
 
 See [the full subsystem breakdown](docs/design-history.md) for the design reasoning, observed failure modes, and changes made between events.
 
@@ -88,8 +88,6 @@ All original listing metadata and source URLs are recorded in [`grabcad-metadata
 
 The engineering history and website media come from [Angelo Demetroulakos' Crabby project page](https://angelojamesny.com/crabby-2022-23). The CAD package was published by [Angelo Demetroulakos on GrabCAD](https://grabcad.com/library/ftc-9384-2022-2023-robot-1) on March 25, 2024.
 
-The portfolio confirms that Crabby is the **2022-2023 POWERPLAY robot**. A reference to 2023-2024 in the GrabCAD description appears to be a season-label typo.
-
 ## License
 
 Copyright © 2022-2026 Angelo Demetroulakos.
@@ -103,4 +101,4 @@ You may copy, share, modify, build upon, and use this material for any purpose, 
 - Link to the CC BY 4.0 license.
 - State whether you made changes.
 
-A ready-to-copy credit line is provided in [`ATTRIBUTION.md`](ATTRIBUTION.md). See the official [`LICENSE`](LICENSE) text for the complete terms.
+A ready to copy credit line is provided in [`ATTRIBUTION.md`](ATTRIBUTION.md). See the official [`LICENSE`](LICENSE) text for the complete terms.
