@@ -1,15 +1,29 @@
-# FTC 9384 2022-2023 Robot - Crabby
+<div align="center">
+
+# Crabby
+
+### FTC Team 9384 Hydraulic Hydras · 2022–2023 POWERPLAY robot CAD
+
+[![FTC Team](https://img.shields.io/badge/FTC-Team_9384-111111?style=for-the-badge)](https://ftc-events.firstinspires.org/team/9384)
+[![Season](https://img.shields.io/badge/season-2022--2023-3f3f46?style=for-the-badge)](#the-challenge)
+[![CAD](https://img.shields.io/badge/CAD-STEP_%2F_F3Z-6b7280?style=for-the-badge)](#cad-files)
+[![License](https://img.shields.io/badge/license-CC_BY_4.0-111111?style=for-the-badge)](LICENSE)
+
+The complete robot archive for Crabby, including final CAD, subsystem models, competition media, and the three stage design history.
+
+[Robot overview](#about) · [Design history](docs/design-history.md) · [Watch Crabby compete](media/site/crabby-match-video.mp4) · [Download CAD](#cad-files) · [GrabCAD model](https://grabcad.com/library/ftc-9384-2022-2023-robot-1)
+
+</div>
 
 ![CAD render of Crabby, FTC Team 9384's POWERPLAY robot](media/site/final-bot-v9.png)
+
+---
+
+## Overview
 
 **Crabby** was FTC Team 9384 Hydraulic Hydras' robot for the 2022-2023 **POWERPLAY** season. Development began at kickoff on September 10, 2022. Across three major competition iterations, the team developed a mecanum drive base, dual linear slide lift, cone claw, and compact direct drive turret.
 
 The turret placed its drive motor's output shaft at the center of rotation. This let the lift and claw aim at junctions without first turning the entire chassis, improving scoring flexibility while keeping the mechanism relatively simple and compact.
-
-- [Read the complete design history](docs/design-history.md)
-- [Watch Crabby compete](media/site/crabby-match-video.mp4)
-- [View the original project page](https://angelojamesny.com/crabby-2022-23)
-- [View the original GrabCAD listing](https://grabcad.com/library/ftc-9384-2022-2023-robot-1)
 
 ## About
 
