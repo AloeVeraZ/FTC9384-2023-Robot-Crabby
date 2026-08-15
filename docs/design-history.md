@@ -33,13 +33,13 @@ The slide structure remained mostly unchanged, but its motor gearing was revised
 
 Because the compliant-wheel intake could not consistently keep cones upright, the team replaced it with a claw. The claw proved much more reliable for the robot's scoring workflow.
 
-![CAD render of the revised cone claw](../media/site/gripper-v117.png)
+<img src="../media/site/gripper-v117.png" alt="CAD render of the revised cone claw">
 
 ### Direct-drive turret
 
 The fixed lift forced the drivetrain to face a junction before scoring. To remove that alignment step, the team mounted the lift on a turret driven directly through the center of its lazy Susan bearing. The motor shaft occupied the turret's central axis, allowing the scoring assembly to rotate independently from the chassis. The team was not aware of an earlier FTC robot using this same direct-drive arrangement.
 
-![Top view of the turret's central drive and bearing](../media/site/img_0029.jpg)
+<img src="../media/site/img_0029.jpg" alt="Top view of the turret's central drive and bearing">
 
 ## Iteration 3: Super Qualifier to State Championship
 
@@ -71,7 +71,7 @@ The completed robot combined:
 - A larger lazy Susan bearing.
 - A compact, directly driven turret for chassis-independent aiming.
 
-![Final CAD rendering of Crabby](../media/site/final-bot-v9.png)
+<img src="../media/site/final-bot-v9.png" alt="Final CAD rendering of Crabby">
 
 [Watch Crabby in competition](../media/site/crabby-match-video.mp4).
 

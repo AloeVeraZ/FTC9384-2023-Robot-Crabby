@@ -5,9 +5,7 @@
 ### FTC Team 9384 Hydraulic Hydras · 2022–2023 POWERPLAY robot CAD
 
 [![FTC Team](https://img.shields.io/badge/FTC-Team_9384-00AEEF?style=for-the-badge&labelColor=0369A1)](https://ftc-events.firstinspires.org/team/9384)
-[![Season](https://img.shields.io/badge/season-2022--2023-8B5CF6?style=for-the-badge&labelColor=6D28D9)](#the-challenge)
-[![CAD](https://img.shields.io/badge/CAD-STEP_%2F_F3Z-22C55E?style=for-the-badge&labelColor=15803D)](#cad-files)
-[![License](https://img.shields.io/badge/license-CC_BY_4.0-F59E0B?style=for-the-badge&labelColor=B45309)](LICENSE)
+<img alt="Season: 2022-2023" src="https://img.shields.io/badge/season-2022--2023-8B5CF6?style=for-the-badge&labelColor=6D28D9"> <img alt="CAD: STEP and F3Z" src="https://img.shields.io/badge/CAD-STEP_%2F_F3Z-22C55E?style=for-the-badge&labelColor=15803D"> <img alt="License: CC BY 4.0" src="https://img.shields.io/badge/license-CC_BY_4.0-F59E0B?style=for-the-badge&labelColor=B45309">
 
 The complete robot archive for Crabby, including final CAD, subsystem models, competition media, and the three stage design history.
 
@@ -15,7 +13,7 @@ The complete robot archive for Crabby, including final CAD, subsystem models, co
 
 </div>
 
-![CAD render of Crabby, FTC Team 9384's POWERPLAY robot](media/site/final-bot-v9.png)
+<img src="media/site/final-bot-v9.png" alt="CAD render of Crabby, FTC Team 9384's POWERPLAY robot">
 
 ---
 
