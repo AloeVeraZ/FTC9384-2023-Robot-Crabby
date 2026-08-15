@@ -16,6 +16,7 @@
 
 Open mechanical design solid models, competition photography, design history, and subsystem CAD for FTC Team 9384's POWERPLAY robot.
 
+<strong>Quick navigation:</strong><br>
 [Robot Overview](#overview) | [Design History](docs/design-history.md) | [CAD Files](#cad-files) | [Competition Gallery](#project-media) | [GrabCAD Model](https://grabcad.com/library/ftc-9384-2022-2023-robot-1)
 
 </div>
@@ -109,6 +110,6 @@ licensed under CC BY 4.0. Source: https://github.com/AloeVeraZ/FTC9384-2023-Robo
 
 <div align="center">
 
-Built by **FTC Team 9384 · Hydraulic Hydras** · Documented by **[Angelo Demetroulakos](https://angelojamesny.com)**
+Built by **FTC Team 9384 · Hydraulic Hydras**
 
 </div>

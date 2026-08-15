@@ -12,7 +12,7 @@ The first robot used a single [REV Robotics linear slide kit](https://www.revrob
 
 ### Chassis
 
-The initial drive base used mecanum wheels for omnidirectional movement. Motors were mounted to aluminum C-channels with metal L-brackets, while the channels formed an H-shaped frame to keep the chassis square. The layout was based on the [REV Robotics Mecanum Drivetrain Kit](https://www.revrobotics.com/rev-45-1877/), with the remaining mechanisms bolted to the completed base.
+The initial drive base used mecanum wheels for omnidirectional movement. Motors were mounted to aluminum C-channels with metal L-brackets, while the channels formed an H-shaped frame to keep the chassis square. The layout was based on the [REV Robotics Mecanum Drivetrain Kit](https://docs.revrobotics.com/duo-build/mecanum-drivetrain-kit-mecanum-drivetrain), with the remaining mechanisms bolted to the completed base.
 
 ### Intake
 
@@ -77,7 +77,7 @@ The completed robot combined:
 
 ## Sources
 
-- [Original Crabby engineering project page](https://angelojamesny.com/crabby-2022-23)
+- [Repository project overview](../README.md)
 - [FTC 2022-2023 POWERPLAY game animation](https://www.youtube.com/watch?v=HsitvZ0JaDc)
 - [Original GrabCAD model listing](https://grabcad.com/library/ftc-9384-2022-2023-robot-1)
 
