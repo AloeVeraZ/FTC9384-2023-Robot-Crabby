@@ -1,116 +1,114 @@
 <div align="center">
 
-# Crabby
+# Crabby · FTC 9384 Competition Robot
 
-### FTC Team 9384 Hydraulic Hydras · 2022–2023 POWERPLAY robot CAD
+### FTC Team 9384 Hydraulic Hydras · 2022–2023 POWERPLAY Season Robot CAD
 
-[![FTC Team](https://img.shields.io/badge/FTC-Team_9384-00AEEF?style=for-the-badge&labelColor=0369A1)](https://ftc-events.firstinspires.org/team/9384)
-<img alt="Season: 2022-2023" src="https://img.shields.io/badge/season-2022--2023-8B5CF6?style=for-the-badge&labelColor=6D28D9"> <img alt="CAD: STEP and F3Z" src="https://img.shields.io/badge/CAD-STEP_%2F_F3Z-22C55E?style=for-the-badge&labelColor=15803D"> <img alt="License: CC BY 4.0" src="https://img.shields.io/badge/license-CC_BY_4.0-F59E0B?style=for-the-badge&labelColor=B45309">
+[![FTC Team](https://img.shields.io/badge/FTC-Team_9384_Hydraulic_Hydras-00aeef?style=flat-square&logo=first&logoColor=white)](https://ftc-events.firstinspires.org/team/9384)
+[![Season](https://img.shields.io/badge/Season-2022--2023_POWERPLAY-8b5cf6?style=flat-square)](#the-challenge)
+[![CAD](https://img.shields.io/badge/CAD-STEP_Assemblies-22c55e?style=flat-square)](#cad-files)
+[![GrabCAD](https://img.shields.io/badge/GrabCAD-Public_Model-f57c00?style=flat-square)](https://grabcad.com/library/ftc-9384-2022-2023-robot-1)
+[![License](https://img.shields.io/badge/License-CC_BY_4.0-f59e0b?style=flat-square)](LICENSE)
 
-The complete robot archive for Crabby, including final CAD, subsystem models, competition media, and the three stage design history.
+<picture>
+  <img src="media/site/final-bot-v9.png" alt="CAD render of Crabby, FTC Team 9384's POWERPLAY robot" width="820" draggable="false">
+</picture>
 
-[Robot overview](#about) · [Design history](docs/design-history.md) · [Watch Crabby compete](media/site/crabby-match-video.mp4) · [Download CAD](#cad-files) · [GrabCAD model](https://grabcad.com/library/ftc-9384-2022-2023-robot-1)
+Open mechanical design solid models, competition photography, design history, and subsystem CAD for FTC Team 9384's POWERPLAY robot.
+
+[Robot Overview](#overview) | [Design History](docs/design-history.md) | [CAD Files](#cad-files) | [Competition Gallery](#project-media) | [GrabCAD Model](https://grabcad.com/library/ftc-9384-2022-2023-robot-1)
 
 </div>
-
-<img src="media/site/final-bot-v9.png" alt="CAD render of Crabby, FTC Team 9384's POWERPLAY robot">
 
 ---
 
 ## Overview
 
-**Crabby** was FTC Team 9384 Hydraulic Hydras' robot for the 2022-2023 **POWERPLAY** season. Development began at kickoff on September 10, 2022. Across three major competition iterations, the team developed a mecanum drive base, dual linear slide lift, cone claw, and compact direct drive turret.
+**Crabby** was FTC Team 9384 Hydraulic Hydras' official competition robot for the 2022–2023 **POWERPLAY** season. Across three major competition iterations, the team developed an omnidirectional Mecanum drive base, dual cascading linear slide lift, compliant cone claw, and a compact direct-drive coaxial turret.
 
-The turret placed its drive motor's output shaft at the center of rotation. This let the lift and claw aim at junctions without first turning the entire chassis, improving scoring flexibility while keeping the mechanism relatively simple and compact.
+The defining mechanical innovation was the directly driven turret: placing the drive motor output shaft concentric with the center of turret rotation allowed the scoring lift and claw to aim at junction poles independently from chassis orientation, drastically reducing cycle times.
 
-## About
-
-This repository is the complete project archive for Crabby, designed and documented by **Angelo Demetroulakos** as a member of FTC Team 9384, the Hydraulic Hydras. It brings the robot's final CAD, subsystem models, competition media, and three stage design history together in one place so other students, teams, makers, and educators can study the design and build on it.
-
-Crabby's defining feature is its directly driven turret. Placing the motor shaft on the turret's axis let the scoring assembly aim independently from the mecanum chassis, while the dual slide lift and claw handled cones across the POWERPLAY field.
-
-## The challenge
-
-[POWERPLAY](https://www.youtube.com/watch?v=HsitvZ0JaDc) required robots to collect cones and score them on junction poles of several heights or in marked field areas. Crabby therefore needed:
-
-- Omnidirectional movement for positioning around a crowded junction field.
-- Enough vertical reach to score at every junction height.
-- Reliable cone acquisition and retention.
-- Fast aiming without repeatedly rotating the entire drivetrain.
-- A rigid lift that stayed stable at full extension.
-
-## How Crabby evolved
-
-| Stage | Competition period | Main design changes |
-| --- | --- | --- |
-| 1 | Kickoff to Qualifier 4 | H-frame mecanum chassis, one REV linear slide, and a two servo compliant wheel intake. |
-| 2 | Qualifier 4 to Super Qualifier | Faster slide gearing, a more reliable claw, and the directly driven turret. |
-| 3 | Super Qualifier to State Championship | A second slide, larger turret bearing, bevel gear drivetrain, lower chassis, and more frame bracing. |
-
-See [the full subsystem breakdown](docs/design-history.md) for the design reasoning, observed failure modes, and changes made between events.
-
-## Project media
-
-<p>
-  <img src="media/site/img_2019.jpg" width="49%" alt="Crabby scoring a cone on a junction">
-  <img src="media/site/img_2020.jpg" width="49%" alt="Crabby driving near a junction during competition">
-</p>
-
-<p>
-  <img src="media/site/20230204_192015.jpg" width="49%" alt="Team members working on Crabby">
-  <img src="media/site/img_0029.jpg" width="49%" alt="Top view of Crabby's direct-drive turret">
-</p>
-
-<p>
-  <img src="media/site/gripper-v117.png" width="49%" alt="CAD render of Crabby's cone claw">
-  <img src="media/site/img_1451.jpg" width="49%" alt="Front view of the completed Crabby robot">
-</p>
-
-The repository contains the seven robot images/renders and the embedded video from the project page. The two original GrabCAD photos are retained separately in [`photos/`](photos/).
-
-## CAD files
-
-| File | Assembly |
+| Subsystem Specification | Technical Implementation |
 | --- | --- |
-| [`final bot.step`](cad/final%20bot.step) | Complete robot |
-| [`Chassis.step`](cad/Chassis.step) | Mecanum chassis and drive base |
-| [`intake.step`](cad/intake.step) | Intake subsystem |
-| [`regular lifts.step`](cad/regular%20lifts.step) | Standard lift assembly |
-| [`inverted lift.step`](cad/inverted%20lift.step) | Inverted lift assembly |
-| [`turret assembled.step`](cad/turret%20assembled.step) | Direct-drive turret assembly |
+| Drivetrain architecture | 4-wheel independent Mecanum drive with bevel gear wheel pods |
+| Turret mechanism | Concentric direct-drive motor axis with large-diameter ring bearing |
+| Vertical lift | Dual cascading REV linear slides with high-speed pulley rigging |
+| End-effector claw | Active compliant servo gripper with conical wedge retention |
+| Structural frame | Custom CNC machined aluminum plates and reinforced structural standoffs |
+| Iteration milestones | 3 competition versions documented from Kickoff to State Championship |
 
-The downloadable models are STEP files. Open them in Autodesk Fusion 360 or another application with STEP support. The complete model was later reconstructed from photos and videos, so some geometry is approximate; the intake and turret plate are the most accurate portions because they were modeled from the completed robot during the season.
+## The Challenge
 
-Several assemblies are large and require Git LFS:
+In the [POWERPLAY](https://www.youtube.com/watch?v=HsitvZ0JaDc) game, robots collected conical game elements and stacked them on vertical junction poles of varying heights (Low, Medium, High). Crabby was engineered to satisfy strict competition constraints:
+- Full 3-DOF planar mobility to maneuver around dense junction forests.
+- 33+ inch vertical reach to cap high junction goals.
+- Rapid 360° turret targeting to score without rotating the drivetrain.
 
-```powershell
-git lfs install
-git clone https://github.com/AloeVeraZ/FTC9384-2023-Robot-Crabby.git
+## Mechanical Evolution
+
+| Phase | Competition Milestones | Mechanical Evolution |
+| :---: | --- | --- |
+| **Stage 1** | Kickoff to Qualifier 4 | H-frame Mecanum chassis, single REV linear slide, and two-servo compliant wheel intake. |
+| **Stage 2** | Qualifier 4 to Super Qualifier | High-speed slide drive gearing, revised pinch claw, and concentric direct-drive turret. |
+| **Stage 3** | Super Qualifier to State Championship | Dual-slide reinforced mast, enlarged turret bearing, bevel drivetrain, and lowered center of gravity. |
+
+Read the in-depth mechanism failure mode analysis in [`docs/design-history.md`](docs/design-history.md).
+
+## Project Media
+
+<div align="center">
+
+| Crabby Scoring on High Junction | Driving in Competition Traffic |
+| :---: | :---: |
+| <img src="media/site/img_2019.jpg" width="100%" alt="Crabby scoring a cone on a junction"> | <img src="media/site/img_2020.jpg" width="100%" alt="Crabby driving near a junction during competition"> |
+
+</div>
+
+<div align="center">
+
+| Pit Fabrication & Tuning | Concentric Direct-Drive Turret |
+| :---: | :---: |
+| <img src="media/site/20230204_192015.jpg" width="100%" alt="Team members working on Crabby"> | <img src="media/site/img_0029.jpg" width="100%" alt="Top view of Crabby's direct-drive turret"> |
+
+</div>
+
+<div align="center">
+
+| Compliant Cone Claw CAD | Completed Competition Robot |
+| :---: | :---: |
+| <img src="media/site/gripper-v117.png" width="100%" alt="CAD render of Crabby's cone claw"> | <img src="media/site/img_1451.jpg" width="100%" alt="Front view of the completed Crabby robot"> |
+
+</div>
+
+## CAD Files
+
+Neutral ISO 10303 STEP exports compatible with Fusion 360, Onshape, SolidWorks, and Inventor:
+
+| Subsystem File | Contents & Assemblies |
+| --- | --- |
+| [`final bot.step`](cad/final%20bot.step) | Master robot competition assembly |
+| [`Chassis.step`](cad/Chassis.step) | Mecanum drive base and chassis frame |
+| [`intake.step`](cad/intake.step) | Compliant cone intake and gripper |
+| [`regular lifts.step`](cad/regular%20lifts.step) | Primary linear slide lift stage |
+| [`inverted lift.step`](cad/inverted%20lift.step) | Inverted auxiliary slide rigging |
+| [`turret assembled.step`](cad/turret%20assembled.step) | Concentric direct-drive turret assembly |
+
+> [!NOTE]
+> Large assembly files are tracked via Git LFS. Run `git lfs install && git lfs pull` after cloning.
+
+## License & Attribution
+
+Original CAD models, photographs, and documentation © 2022–2026 **Angelo Demetroulakos**. Licensed under the **[Creative Commons Attribution 4.0 International License](LICENSE)**.
+
+```text
+Based on the FTC 9384 2022–2023 Robot (Crabby) by Angelo Demetroulakos and FTC Team 9384 Hydraulic Hydras,
+licensed under CC BY 4.0. Source: https://github.com/AloeVeraZ/FTC9384-2023-Robot-Crabby
 ```
 
-## Categories and tags
+---
 
-**Categories:** 3D printing, Educational, Robotics
+<div align="center">
 
-**Tags:** mecanum drive, mecanum, chassis, automotive, tech, turret, linear slides, lift, drivetrain, drive base, CAD, 3D design, FTC, robotics, plates, CNC, aluminium, design, CAD design, Fusion 360, Autodesk, FIRST, FRC, first tech challange, John Dewey, John D
+Built by **FTC Team 9384 · Hydraulic Hydras** · Documented by **[Angelo Demetroulakos](https://angelojamesny.com)**
 
-All original listing metadata and source URLs are recorded in [`grabcad-metadata.yml`](grabcad-metadata.yml). GitHub permits only 20 repository topics, so all 26 GrabCAD tags are preserved in the repository even though they cannot all be displayed as GitHub topics.
-
-## Sources
-
-The engineering history and website media come from [Angelo Demetroulakos' Crabby project page](https://angelojamesny.com/crabby-2022-23). The CAD package was published by [Angelo Demetroulakos on GrabCAD](https://grabcad.com/library/ftc-9384-2022-2023-robot-1) on March 25, 2024.
-
-## License
-
-Copyright © 2022-2026 Angelo Demetroulakos.
-
-Crabby's original CAD, documentation, images, and video are licensed by **Angelo Demetroulakos** under the [Creative Commons Attribution 4.0 International License](LICENSE) (**CC BY 4.0**).
-
-You may copy, share, modify, build upon, and use this material for any purpose, including commercially. If you share the original material or your version, you must:
-
-- Credit Angelo Demetroulakos as the creator.
-- Link to this repository or otherwise identify the source when reasonably possible.
-- Link to the CC BY 4.0 license.
-- State whether you made changes.
-
-A ready to copy credit line is provided in [`ATTRIBUTION.md`](ATTRIBUTION.md). See the official [`LICENSE`](LICENSE) text for the complete terms.
+</div>
