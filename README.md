@@ -14,7 +14,7 @@
   <img src="media/site/final-bot-v9.png" alt="CAD render of Crabby, FTC Team 9384's POWERPLAY robot" width="820" draggable="false">
 </picture>
 
-Open mechanical design solid models, competition photography, design history, and subsystem CAD for FTC Team 9384's POWERPLAY robot.
+CAD, competition photos, and design history from FTC Team 9384's POWERPLAY robot.
 
 <strong>Quick navigation:</strong><br>
 [Robot Overview](#overview) | [Design History](docs/design-history.md) | [CAD Files](#cad-files) | [Competition Gallery](#project-media) | [GrabCAD Model](https://grabcad.com/library/ftc-9384-2022-2023-robot-1)
@@ -25,11 +25,11 @@ Open mechanical design solid models, competition photography, design history, an
 
 ## Overview
 
-**Crabby** was FTC Team 9384 Hydraulic Hydras' official competition robot for the 2022–2023 **POWERPLAY** season. Across three major competition iterations, the team developed an omnidirectional Mecanum drive base, dual cascading linear slide lift, compliant cone claw, and a compact direct-drive coaxial turret.
+**Crabby** was FTC Team 9384 Hydraulic Hydras' robot for the 2022–2023 **POWERPLAY** season. It went through three competition versions with a Mecanum drive, cascading slide lift, cone claw, and direct-drive coaxial turret.
 
 The defining mechanical innovation was the directly driven turret: placing the drive motor output shaft concentric with the center of turret rotation allowed the scoring lift and claw to aim at junction poles independently from chassis orientation, drastically reducing cycle times.
 
-| Subsystem Specification | Technical Implementation |
+| Subsystem | How it was built |
 | --- | --- |
 | Drivetrain architecture | 4-wheel independent Mecanum drive with bevel gear wheel pods |
 | Turret mechanism | Concentric direct-drive motor axis with large-diameter ring bearing |
@@ -40,7 +40,7 @@ The defining mechanical innovation was the directly driven turret: placing the d
 
 ## The Challenge
 
-In the [POWERPLAY](https://www.youtube.com/watch?v=HsitvZ0JaDc) game, robots collected conical game elements and stacked them on vertical junction poles of varying heights (Low, Medium, High). Crabby was engineered to satisfy strict competition constraints:
+In [POWERPLAY](https://www.youtube.com/watch?v=HsitvZ0JaDc), robots collected cones and stacked them on junction poles at different heights. Crabby had to do that while staying inside the normal FTC size and safety rules:
 - Full 3-DOF planar mobility to maneuver around dense junction forests.
 - 33+ inch vertical reach to cap high junction goals.
 - Rapid 360° turret targeting to score without rotating the drivetrain.
@@ -97,14 +97,9 @@ Neutral ISO 10303 STEP exports compatible with Fusion 360, Onshape, SolidWorks, 
 > [!NOTE]
 > Large assembly files are tracked via Git LFS. Run `git lfs install && git lfs pull` after cloning.
 
-## License & Attribution
+## License
 
-Original CAD models, photographs, and documentation © 2022–2026 **Angelo Demetroulakos**. Licensed under the **[Creative Commons Attribution 4.0 International License](LICENSE)**.
-
-```text
-Based on the FTC 9384 2022–2023 Robot (Crabby) by Angelo Demetroulakos and FTC Team 9384 Hydraulic Hydras,
-licensed under CC BY 4.0. Source: https://github.com/AloeVeraZ/FTC9384-2023-Robot-Crabby
-```
+CAD, photos, and documentation in this repository are available under the [Creative Commons Attribution 4.0 International License](LICENSE).
 
 ---
 
