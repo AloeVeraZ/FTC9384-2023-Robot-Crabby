@@ -61,7 +61,7 @@ Read the in-depth mechanism failure mode analysis in [`docs/design-history.md`](
 
 | Crabby Scoring on High Junction | Driving in Competition Traffic |
 | :---: | :---: |
-| <img src="media/site/img_2019.jpg" width="100%" alt="Crabby scoring a cone on a junction"> | <img src="media/site/img_2020.jpg" width="100%" alt="Crabby driving near a junction during competition"> |
+| <picture><img src="media/site/img_2019.jpg" width="100%" alt="Crabby scoring a cone on a junction"></picture> | <picture><img src="media/site/img_2020.jpg" width="100%" alt="Crabby driving near a junction during competition"></picture> |
 
 </div>
 
@@ -69,7 +69,7 @@ Read the in-depth mechanism failure mode analysis in [`docs/design-history.md`](
 
 | Pit Fabrication & Tuning | Concentric Direct-Drive Turret |
 | :---: | :---: |
-| <img src="media/site/20230204_192015.jpg" width="100%" alt="Team members working on Crabby"> | <img src="media/site/img_0029.jpg" width="100%" alt="Top view of Crabby's direct-drive turret"> |
+| <picture><img src="media/site/20230204_192015.jpg" width="100%" alt="Team members working on Crabby"></picture> | <picture><img src="media/site/img_0029.jpg" width="100%" alt="Top view of Crabby's direct-drive turret"></picture> |
 
 </div>
 
@@ -77,7 +77,7 @@ Read the in-depth mechanism failure mode analysis in [`docs/design-history.md`](
 
 | Compliant Cone Claw CAD | Completed Competition Robot |
 | :---: | :---: |
-| <img src="media/site/gripper-v117.png" width="100%" alt="CAD render of Crabby's cone claw"> | <img src="media/site/img_1451.jpg" width="100%" alt="Front view of the completed Crabby robot"> |
+| <picture><img src="media/site/gripper-v117.png" width="100%" alt="CAD render of Crabby's cone claw"></picture> | <picture><img src="media/site/img_1451.jpg" width="100%" alt="Front view of the completed Crabby robot"></picture> |
 
 </div>
 

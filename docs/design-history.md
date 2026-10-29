@@ -19,8 +19,8 @@ The initial drive base used mecanum wheels for omnidirectional movement. Motors 
 The original intake placed two compliant wheels on two servos with a narrow gap between them. A centered cone could be pulled in smoothly and held between the wheels, but the design did not reliably keep every cone upright or prevent it from falling out.
 
 <p>
-  <img src="../media/site/img_2019.jpg" width="49%" alt="First competition version of Crabby at a junction">
-  <img src="../media/site/img_2020.jpg" width="49%" alt="Crabby maneuvering around cones and junctions">
+  <picture><img src="../media/site/img_2019.jpg" width="49%" alt="First competition version of Crabby at a junction"></picture>
+  <picture><img src="../media/site/img_2020.jpg" width="49%" alt="Crabby maneuvering around cones and junctions"></picture>
 </p>
 
 ## Iteration 2: Qualifier 4 to Super Qualifier
@@ -33,13 +33,13 @@ The slide structure remained mostly unchanged, but its motor gearing was revised
 
 Because the compliant-wheel intake could not consistently keep cones upright, the team replaced it with a claw. The claw proved much more reliable for the robot's scoring workflow.
 
-<img src="../media/site/gripper-v117.png" alt="CAD render of the revised cone claw">
+<picture><img src="../media/site/gripper-v117.png" alt="CAD render of the revised cone claw"></picture>
 
 ### Direct-drive turret
 
 The fixed lift forced the drivetrain to face a junction before scoring. To remove that alignment step, the team mounted the lift on a turret driven directly through the center of its lazy Susan bearing. The motor shaft occupied the turret's central axis, allowing the scoring assembly to rotate independently from the chassis. The team was not aware of an earlier FTC robot using this same direct-drive arrangement.
 
-<img src="../media/site/img_0029.jpg" alt="Top view of the turret's central drive and bearing">
+<picture><img src="../media/site/img_0029.jpg" alt="Top view of the turret's central drive and bearing"></picture>
 
 ## Iteration 3: Super Qualifier to State Championship
 
@@ -56,8 +56,8 @@ The chassis was substantially redesigned. Four 90-degree bevel gearboxes moved t
 The claw from the second iteration was retained because it had solved the cone-retention problem.
 
 <p>
-  <img src="../media/site/20230204_192015.jpg" width="49%" alt="Team members servicing the revised robot">
-  <img src="../media/site/img_1451.jpg" width="49%" alt="Front view of final Crabby configuration">
+  <picture><img src="../media/site/20230204_192015.jpg" width="49%" alt="Team members servicing the revised robot"></picture>
+  <picture><img src="../media/site/img_1451.jpg" width="49%" alt="Front view of final Crabby configuration"></picture>
 </p>
 
 ## Final configuration
@@ -71,7 +71,7 @@ The completed robot combined:
 - A larger lazy Susan bearing.
 - A compact, directly driven turret for chassis-independent aiming.
 
-<img src="../media/site/final-bot-v9.png" alt="Final CAD rendering of Crabby">
+<picture><img src="../media/site/final-bot-v9.png" alt="Final CAD rendering of Crabby"></picture>
 
 [Watch Crabby in competition](../media/site/crabby-match-video.mp4).
 
